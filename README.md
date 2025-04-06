@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Joran Vanpeene 😊 </h1>
 <h3 > 👀 I’m interested in Full Stack Web Development </h3>
-<h3 > 🌱 I currently studying for a bachelor Web Development </h3>
+<h3 > 🌱 I'm currently a web developer freelance </h3>
 <h3 > 📫 How to reach me, contact me via email : <a href="mailto:joran.vanpeene@gmail.com ">joran.vanpeene@gmail.com </a> <br> Or via <a href="https://www.linkedin.com/in/joran-vanpeene-developpeur-web-fullstack/">LinkedIn</a> </h3> 
 <br>
 <br>
